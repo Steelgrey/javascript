@@ -1,0 +1,20 @@
+[
+    {
+        "name" : "İbrahim Aykut BAŞ",
+        "age" : 23,
+        "salary" : 4000
+    },
+
+    {
+        "name" : "İbrahim Aykut",
+        "age" : 23,
+        "salary" : 3500
+    },
+
+    {
+        "name" : "İbrahim Aykut",
+        "age" : 23,
+        "salary" : 300
+    }
+
+]

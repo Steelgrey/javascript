@@ -1,0 +1,17 @@
+[
+    {
+        "name":"Ibrahim Aykut",
+        "department":"Bilisim",
+        "salary":3500
+    },
+    {
+        "name":"Ibrahim",
+        "department":"Bilisim",
+        "salary":4000
+    },
+    {
+        "name":"Aykut",
+        "department":"Bilisim",
+        "salary":4500
+    }
+]
